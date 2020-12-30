@@ -1,1 +1,1 @@
-# financial_engineering
+# Financial Engineering and Artificial Intelligence in Python
